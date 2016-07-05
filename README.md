@@ -11,6 +11,7 @@
 通过使用phoenix_develop开发用例代码的示例，<br>
 用例如果在本地调试时没有问题，那么就可以放到控制端进行执行了。<br>
 平台网站：http://www.cewan.la 或 http://www.phoenixframe.org<br>
+环境搭建及使用说明书：http://my.oschina.net/u/2391658/blog/706055<br>
 搜索：测完啦或phoenixframe会有更多关于平台的示例<br>
 <br>
 最新版本：1.4.8<br>
